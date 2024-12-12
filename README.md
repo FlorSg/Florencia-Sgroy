@@ -3,12 +3,16 @@
 ¿Quién soy?
 Soy una programadora Fullstack, orientada al Front-end 
 
-Desde muy pequeña tuve contacto con la tecnología. Mi familia tenía un negocio dedicado a la computación y telefonía, en aquel momento aún no teníamos en nuestra sociedad, el uso diario de los aparatos tecnológicos, entonces pasaba gran parte de mi tiempo en este lugar, en conección con la computadora, me gustaba buscar información, escuchaba musica y jugaba video juegos, entre otras cosas, exploraba el internet a mi corta edad, conocí herramientas de trabajo que posteriormente en mi educación tuve que aprender a utilizar. Un recuerdo que al día de hoy me hace enlazar mi incorporación a éste mundo, es que al encender la computadora, aparecía en la pantalla el logo de JAVA, con la tacita de café, no sabía porqué pero llamaba fuertemente mi atención. Hoy entender qué era eso que se mostraba en mi monitor, es fascinante. Aunque con el tiempo, me alejé del mundo tecnológico, por otros intereses, creyendo que jamás iba a relacionarme tan directamente con ello. 
-Luego del fenomeno mundial que atravesamos, una pandemia que logró que interntet se instalara para formar parte de nuestra cotidianeidad, fue inebitable volver a tomar conacto con las conexiones online para seguir en contacto y poder trabajar en ese momento. Me di cuenta que no había límite, que se me había abierto un gran camino para conectar con el mundo y que ya no solo se limitaba a mi lugar de origen, para mi fue todo un descubrimiento.
-Poco a poco fui incorporandome en la era tecnológica, casi con un poco de desconfianza, comencé a formarme, a aprender nuevas tecnologías y fue un viaje de ida. Ha sido una experiencia muy motivadora y gratificante mi acercamiento al código.
+Desde muy pequeña, tuve un contacto cercano con la tecnología. Mi familia tenía un negocio dedicado a la computación y la telefonía, en una época en la que los dispositivos tecnológicos todavía no formaban parte del día a día de nuestra sociedad. Pasaba gran parte de mi tiempo en ese lugar, explorando la computadora. Me gustaba buscar información, escuchar música y jugar videojuegos. Me gustaba aventurarme en el internet y conocía herramientas de trabajo que, años después sin querer, iba a tener que aprender formalmente en mi educación.
+
+Uno de los recuerdos que más me conecta con mis inicios en el mundo tecnológico es el logo de Java, esa taza de café que aparecía al encender la computadora. No entendía qué significaba, pero me resultaba llamativo. Hoy, comprender su importancia y el papel que juega en la programación me resulta igual de emocionante.
+
+Con el tiempo, me alejé de la tecnología, siguiendo otros intereses y creyendo que jamás volvería a relacionarme tan directamente con este mundo. Sin embargo, la pandemia, ese fenómeno global que transformó nuestras vidas, me devolvió a las conexiones online. Fue inevitable redescubrir internet como una herramienta esencial para mantener el contacto y trabajar durante ese período. Ahí me di cuenta de que no había límites, tenía ante mí un camino inmenso para conectar con el mundo, más allá de mi lugar de origen. Para mí, fue un auténtico descubrimiento.
+
+Poco a poco, empecé a sumergirme de nuevo en la era tecnológica. Aunque al principio lo hice con cierta desconfianza, empecé a formarme y a aprender nuevas herramientas y tecnologías. Este acercamiento al código ha sido un viaje transformador, lleno de motivación y gratificación.
 
 ¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permitan seguir aprendiendo y puliendo mi formación como programadora. Me sorprende todo lo que se puede hacer en el mundo tecnológico, ya que siempre hay una novedad con la que me encuentro y debo decir que me encanta la rapidéz con la que se avanza. Cuando logro realizar algún proyecto o tarea en particular con el código, me da mucha felicidad.
+Actualmente me dedico a realizar proyectos que me permitan seguir aprendiendo y puliendo mi formación como programadora. Me sorprende todo lo que se puede hacer en el mundo IT, ya que siempre hay una novedad con la que me encuentro y debo decir que me encanta la rapidéz con la que se avanza. Cuando logro realizar algún proyecto o tarea en particular con el código, me da mucha felicidad.
 
 ¿A dónde me dirijo?
 
@@ -16,18 +20,18 @@ Mi objetivo es impactar el mundo con el código.
 Me apasiona ampliar mi perspectiva, encontrarme a diario con novedades de las cosas que existen en el mundo y pensar y encontrar nuevas soluciones a situaciones cotidianas de nuestra realidad.
 
 ¿Qué tecnologías uso?
-El BootCamp de SoyHenry, me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologías que manejo son:
 
+HTML
+CSS
 Javascript
-React.js
-Node.js
+React js
+Node js
 Express
 PostgresSQL
 Sequelize
 GIT
-HTML
-CSS
+
 
 No dudes en contactarme!
-Linkedin
-Correo florsgroy@gmail.com
+Linkedin https://www.linkedin.com/in/florencia-sgroy/
+Correo dev.fsgroy@gmail.com
